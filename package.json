@@ -1,0 +1,23 @@
+{
+  "name": "typescript-code",
+  "version": "1.0.0",
+  "description": "My way to understand typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyDes/typescript-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanyDes/typescript-code/issues"
+  },
+  "homepage": "https://github.com/DanyDes/typescript-code#readme",
+  "dependencies": {
+    "date-fns": "^3.3.1"
+  }
+}
