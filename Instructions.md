@@ -33,4 +33,14 @@ to watch changes in the project
 
 ```npx tsc --watch```
 
+to run ts code inside node and not only js como dependencia de desarrollo
+
+`npm install -D ts-node`
+
+to run a ts file
+
+`npx ts-node dir/file.ts`
+
+
+
 

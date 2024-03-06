@@ -19,5 +19,9 @@
   "homepage": "https://github.com/DanyDes/typescript-code#readme",
   "dependencies": {
     "date-fns": "^3.3.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "ts-node": "^10.9.2"
   }
 }

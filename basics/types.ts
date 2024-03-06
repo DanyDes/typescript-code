@@ -71,8 +71,12 @@ login({user: 'dnhuayhus@gmail.com', password: 'safepassword'})
 
 //define the type as an object
 type Product = {
-  title: string, createdAt: Date, stock: number, size?: string
+  title: string;
+  createdAt: Date;
+  stock: number;
+  size?: string;
 }
+
 let productsArray: Product[] = [];
 const addProduct = (product:Product) => {
   productsArray.push(product);

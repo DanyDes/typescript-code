@@ -1,3 +1,5 @@
+
+
 //this in case you need to define string type
 enum hexaColors {
     green = "#00693e",
